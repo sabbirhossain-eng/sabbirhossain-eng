@@ -22,7 +22,7 @@ I am fueled by the desire to build impactful and elegant solutions that make a d
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 5px;">
     <img src="/assets/react.png" style="width: auto; height: 50px; margin: 10px;">
     <img src="/assets/js.png" style="width: auto; height: 50px; margin: 10px;">
-    <img src="/assets/tailwind-css.png" style="width: auto; height: 50px; margin: 10px;">
+    <img src="/assets/tailwind-css..png" style="width: auto; height: 50px; margin: 10px;">
     <img src="/assets/html-5.png" style="width: auto; height: 50px; margin: 10px;">
   </div>
 
