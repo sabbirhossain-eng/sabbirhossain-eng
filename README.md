@@ -28,7 +28,7 @@ I am fueled by the desire to build impactful and elegant solutions that make a d
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 5px;">
     <img src="/assets/css-3.png" style="width: auto; height: 50px; margin: 10px;">
-    <img src="/assets/node-js.png" style="width: auto; height: auto; margin: 10px;">
+    <img src="/assets/node-js.png" style="width: auto; height: 70px; margin: 10px;">
     <img src="/assets/mongodb.png" style="width: auto; height: 50px; margin: 10px;">
   </div>
 </div>
