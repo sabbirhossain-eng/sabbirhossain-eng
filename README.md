@@ -38,5 +38,4 @@ I am fueled by the desire to build impactful and elegant solutions that make a d
 
 #### 📈 Current Stats
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbirhossain-eng&show_icons=true&theme=ambient_gradient)
