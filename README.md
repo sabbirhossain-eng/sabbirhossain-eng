@@ -19,14 +19,14 @@ I am fueled by the desire to build impactful and elegant solutions that make a d
 <hr>
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 5px;">
+  <div style="display: flex; justify-content: space-between; margin-top: 5px;">
     <img src="/assets/react.png" style="width: auto; height: 50px; margin: 10px;">
     <img src="/assets/js.png" style="width: auto; height: 50px; margin: 10px;">
     <img src="/assets/tailwind-css..png" style="width: auto; height: 50px; margin: 10px;">
     <img src="/assets/html-5.png" style="width: auto; height: 50px; margin: 10px;">
   </div>
 
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 5px;">
+  <div style="display: flex; justify-content: space-between; margin-top: 5px;">
     <img src="/assets/css-3.png" style="width: auto; height: 50px; margin: 10px;">
     <img src="/assets/node-js.png" style="width: auto; height: 70px; margin: 10px;">
     <img src="/assets/mongodb.png" style="width: auto; height: 50px; margin: 10px;">
